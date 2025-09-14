@@ -13,13 +13,6 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 ---
 
-
-
-
-
-
-
-
 ## 1. ADDITION
 
 #### Algorithm
@@ -70,18 +63,16 @@ END
 1203 : 34    |1207 : C4
 
 #### Manual Calculations
-
-![add](https://github.com/user-attachments/assets/292a65b0-6ac0-4cab-9c91-cacb1893fbe3)
-
+![WhatsApp Image 2025-09-14 at 14 03 30_bce4acec](https://github.com/user-attachments/assets/d26fd2e7-3128-49cc-9f15-b076e2e44ea9)
 
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
-<img width="644" height="430" alt="Screenshot 2025-09-03 113518" src="https://github.com/user-attachments/assets/09d540d8-123e-449e-aa2a-a6661e1396af" />
+![WhatsApp Image 2025-09-14 at 14 05 21_d77ae7ba](https://github.com/user-attachments/assets/47650581-c23e-4881-8b8e-435aa9be3a03)
 
-<img width="634" height="379" alt="Screenshot 2025-09-03 113342" src="https://github.com/user-attachments/assets/466cf339-83d9-412d-9b34-e99f4d4ba6b9" />
+![WhatsApp Image 2025-09-14 at 14 05 22_875667eb](https://github.com/user-attachments/assets/e4560723-246a-4214-a7b6-321befb7a630)
 
 
 
@@ -136,7 +127,8 @@ END
 
 #### Manual Calculations
 
-![sub](https://github.com/user-attachments/assets/c53678f9-fdd0-4f2c-8bee-ee11ff73447d)
+![WhatsApp Image 2025-09-14 at 14 03 30_1f791b6b](https://github.com/user-attachments/assets/5564d0fd-ad2a-44b7-98b3-4db70a553198)
+
 
 
 ---
@@ -144,10 +136,9 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-<img width="634" height="429" alt="Screenshot 2025-09-03 113636" src="https://github.com/user-attachments/assets/24857e37-0dd8-4992-8908-56ef73745b8b" />
+![WhatsApp Image 2025-09-14 at 14 05 22_c5205835](https://github.com/user-attachments/assets/9d19eb02-6749-4005-afcc-d4d377e68f55)
 
-<img width="637" height="428" alt="Screenshot 2025-09-03 113800" src="https://github.com/user-attachments/assets/17fbe5ea-2bc9-44cc-90bb-9e8e7a1638f9" />
-
+![WhatsApp Image 2025-09-14 at 14 07 30_8914b19c](https://github.com/user-attachments/assets/51957d9a-87ae-4e5c-a1e6-454d923e3b51)
 
 
 ## 3. MULTIPLICATION
@@ -195,17 +186,17 @@ END
 
 #### Manual Calculations
 
-![mul](https://github.com/user-attachments/assets/7fd0dbd5-ab5c-447c-891f-bbf1cd50b461)
+![WhatsApp Image 2025-09-14 at 14 03 29_c5543da4](https://github.com/user-attachments/assets/9e32e85d-be94-47b5-8d74-52d6a458159e)
+
 
 
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-14 at 14 07 31_ac24efeb](https://github.com/user-attachments/assets/43eb0d10-1383-4c5b-90f3-52523aaeef46)
 
-<img width="635" height="427" alt="Screenshot 2025-09-03 113924" src="https://github.com/user-attachments/assets/324b6d47-c70e-4196-99a4-863c6d3e5f22" />
-
-<img width="635" height="427" alt="Screenshot 2025-09-03 114034" src="https://github.com/user-attachments/assets/05cc6092-7a87-4283-bfb8-d9b51995cb10" />
+![WhatsApp Image 2025-09-14 at 14 07 31_5662e020](https://github.com/user-attachments/assets/b41a6435-e456-4580-9fbc-feb655f5a547)
 
 
 
@@ -251,15 +242,17 @@ END
 
 #### Manual Calculations
 
-![div](https://github.com/user-attachments/assets/62f8edef-58e4-4b83-a154-445721c9881b)
+![WhatsApp Image 2025-09-14 at 14 03 29_0956bd48](https://github.com/user-attachments/assets/4b660fab-38fd-49ed-96d6-dd05cf341057)
+
 
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
-<img width="633" height="428" alt="Screenshot 2025-09-03 114651" src="https://github.com/user-attachments/assets/d8b7f2ce-6a3d-4e82-a025-9dd489b3ce8e" />
+![WhatsApp Image 2025-09-14 at 14 07 31_07fd1776](https://github.com/user-attachments/assets/e8657091-6092-4c48-a797-a438523c6785)
 
-<img width="632" height="428" alt="Screenshot 2025-09-03 114551" src="https://github.com/user-attachments/assets/b1b159c4-3750-4ff7-8586-6db9f1a9f2eb" />
+![WhatsApp Image 2025-09-14 at 14 10 20_8783bf74](https://github.com/user-attachments/assets/a6604d9a-ac81-4538-ae4d-eb85999982ef)
+
 
 
 
